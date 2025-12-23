@@ -12,6 +12,8 @@ Aquí documento mi aprendizaje desde los fundamentos hasta conceptos avanzados.
 | 03 | [Analizador de Texto](./Dia%203%20-%20Analizador-de-texto) | Métodos de strings, listas y slicing |
 | 04 | [Adivina el Número](./Dia%204%20-%20Adivina-el-numero) | Operadores lógicos y condicionales (if/else) |
 | 05 | [El Ahorcado](./Dia%205%20-%20Ahorcados) | Bucles (loops), listas y control de flujo |
+| 06 | [Recetario](./Dia%206%20-%20Recetario/) | Manipulación de Archivos (I/O), Pathlib y Rutas de Directorios |
+| 07 | [Cuenta Bancaria](./Dia%207%20-%20Cuenta%20Bancaria/) | Programación Orientada a Objetos (POO), Clases y Herencia | 
 
 ---
 *Este portafolio es mantenido por Lyan como parte de mi camino para convertirme en Desarrollador Python.*
